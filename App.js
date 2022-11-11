@@ -30,7 +30,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>spiagl</Text>
+      <Text style={styles.title}>spiagl demo</Text>
       <StatusBar style="auto" />
 
       <Camera style={styles.camera} type={type}></Camera>
